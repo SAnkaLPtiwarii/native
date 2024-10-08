@@ -55,10 +55,10 @@ VSell is a modern, user-friendly e-commerce mobile application built with React 
 
 4. Start the Expo development server:
    ```
-   expo start
+   npx expo start --clear
    ```
 
-5. Use the Expo Go app on your mobile device to scan the QR code and run the app, or use an emulator.
+USE W TO OPEN THE WEB, THEN CHECK IT OUT AND EDIT ITS DIMENSIONS TO FIT YOUR FAVOURITE DEVICE.
 
 ## Project Structure
 
